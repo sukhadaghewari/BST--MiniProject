@@ -1,0 +1,260 @@
+m capacitor
+2 98 27
+s with dielectric
+1 89
+s charging of
+2 78 24
+s discharging of
+3 92 37 99
+s cylindrical
+2 89 229 
+s force between the plates
+3 67 92 -23
+s in series
+2 45 29
+s in parallel
+2 38 38
+m AMMETER
+1 90
+s hot WIre
+3 72 79 21
+s hot wire
+1 100
+m Dielectric
+1 100
+s and Gauss's law
+2 62 92
+s strength
+1 109
+j STRENgTh
+2 87 92
+s sTREnGTH
+3 45 92 13
+s breakdown
+2 65 49
+m ammeter
+1 101
+m Force
+1 106
+s lines of
+4 72 83 92 24
+s gravitational
+5 82 -83 64 62 94
+s electric
+1 282
+s magnetic
+2 43 78
+m Force
+0
+s magnetic
+1 100
+m Electric field
+2 78 47
+s due to a dipole
+5 28 93 73 28 -23
+s due to a charged conductor
+2 83 44
+s due to A PLAne charged sheet
+6 28 83 74 33 55 24
+s due to a line charge
+3 83 73 92
+s energy in
+3 78 56 39
+s due to a spherical charge distribution
+2 87 38
+s flux of
+1 -93
+s flux of
+2 100 200
+s in a conductor
+3 82 92 54
+m Millikan
+2 98 38
+s oil drop experiment
+3 83 20 46
+m Nuclear
+4 82 63 -28 39
+s fusion
+5 82 92 56 72 49
+s fission
+2 98 27
+s binding energy
+3 72 89 27
+s reactor
+1 100
+s stability
+6 28 63 82 37 46 83
+s spin
+3 48 82 47
+m Paramagnetism
+2 27 39
+m Schrodinger's equation
+2 89 99
+m schrodinger's EQUATIon
+2 119 109
+m fusion
+1 239
+s latent heat of
+3 78 26 38
+s nuclear
+2 18 37
+m gate
+4 72 93 -28 29
+s not
+2 84 38
+s xor
+4 82 82 26 94
+s or
+2 93 29
+s AND
+5 8 3 28 83 23
+m isobaric process
+2 83 92
+m entropy
+2 38 47
+m zener breakdown
+3 89 26 39
+m x-ray
+6 29 38 -92 73 29 37
+s soft and hard
+2 83 28
+s coolidge tube
+2 62 93
+s bregg's law
+3 92 37 55
+s moseley's law
+4 82 39 32 85
+s soft and hard
+1 100
+m tesla
+3 93 22 48
+m Stefan boltzman constant
+3 89 323 45
+m rydberg constant
+3 89 26 48
+m potential
+1 56
+s ionizing
+5 67 29 36 93 -99
+s sparking
+4 28 38 92 167
+s electric
+3 82 197 245
+s excitation
+5 73 156 234 451 24
+m internal combustion engine
+2 282 35
+m henry, unit of inductance
+3 82 198 2
+m second law of thermodynamics
+0
+s in terms of entropy
+2 98 56
+s claussius statement
+3 271 83 283
+s kelvin-PLAnk statement
+2 73 222
+m relativistic
+0
+s momentum
+2 72 93
+s dynamics
+4 56 28 39 399
+s mass
+3 78 -99 78
+m photoelectric effect
+2 99 200
+m thermal expansion
+1 82
+m wave particle duality
+2 89 36
+m superconductivity
+4 72 92 46 92
+m x-ray
+1 100
+m ideal gas equation
+2 89 10
+m richardson dushman law
+1 78
+t quasi static process
+3 15 11 97
+m first law of thermodynamics
+4 82 92 45 88
+m semiconductor
+2 89 58
+s intrinsic
+3 92 83 462
+s extrinsic
+1 100
+s p type
+1 103
+s n type
+3 78 299 168
+s p type
+2 256 281
+s n type
+1 390
+m maxwell's equation
+6 92 3 7 38 26 92
+m time dilation
+4 72 92 25 391
+m induction
+0
+s of charge
+3 56 238 82
+s self
+2 78 193
+s mutual
+3 67 29 38
+m heat
+0
+s transfer
+3 89 188 107
+s mechanical equivalent of
+4 82 -83 26 392
+s a form of enrgy
+3 89 203 138
+m kelvin plank second law of thermodynamics
+3 167 281 107
+m electric field
+1 100
+m tesla
+1 100
+m ammeter
+1 1000
+m tesla
+1 89
+s tesla theorem
+3 67 -9 78
+m internal combustion engine
+1 78
+m rydberg constant
+1 100
+s value of the constant
+2 36 25
+m paramagnetism
+3 -9 56 56
+m potential
+1 78
+m x-ray
+1 98
+m zener breakdown
+1 92
+m time dilation
+1 89
+m zener breakdown
+1 100
+m heat
+2 15 97
+m isobaric process
+1 100
+m time dilation
+1 100
+m tesla
+1 88
+m zener breakdown
+2 45 27
+m x-ray
+1 77
+s soft and hard
+1 100

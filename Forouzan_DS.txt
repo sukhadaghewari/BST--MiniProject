@@ -1,0 +1,202 @@
+m underflow
+0
+s queue
+1 29
+s stack
+3 12 44 55
+s binary tree
+1 34
+m trie
+1 67
+s search
+2 45 12
+s truncl
+1 66
+s trunc
+1 64
+s truncf
+3 64 78 43
+s structure
+4 23 67 47 32
+m structure chart
+10 65 34 67 90 45 23 23 47 74 59
+s recursion
+3 22 40 64
+s reading
+2 46 96
+s flg
+3 10 48 35
+s symbols
+3 12 34 6
+s loop
+6 12 45 8 54 32 34
+s system
+3 49 56 78
+m trie
+1 89
+s advanced trunk
+4 23 56 78 12
+M STRING
+3 123 45 6
+S strcat
+1 67
+s strcmp
+2 56 78
+s strrchr
+1 34
+s strnchr
+3 89 34 10
+c null
+1 37
+M pointer
+0
+s linked list
+2 34 89
+s rear
+1 45
+s dangling
+1 78
+s huge
+2 56 23
+s near
+2 9 45
+m traversal
+0
+s preorder
+2 33 67
+s DEPTH FIRST traversal
+3 999 45 12
+s breadth first traversal
+4 -100 33 -45 22
+s inorder
+3 22 22 56
+s postORDER
+1 45
+m file
+5 345 23 78 23 -187
+s fputc
+2 56 12
+s rewind
+3 11 890 54
+s ferror
+4 100 455 2 36
+s clearerr
+3 -44 56 23
+m heap
+0
+s HEAPIFY
+2 67 34
+s reheapUP
+2 66 32
+s insert
+4 38 12 78 44
+s right sibling
+0
+s built
+3 56 8 45
+m merge
+3 33 33 56
+s natural
+2 66 78
+s balanced
+4 -98 56 23 -123
+s poyphase
+1 786
+s sentinel
+4 12 56 54 7
+m abstract data type
+1 33
+s B TREE
+2 67 45
+s operation
+3 44 12 7
+s atomic data
+2 45 2
+M ackerman's no
+1 444
+m bitwise operators
+1 34
+s or
+3 45 23 45
+s and
+0
+s comma
+2 45 67
+s negation
+1 34
+M bst
+1 100
+s retrive
+2 56 23
+s full
+3 23 65 23
+j fgfghf
+3 56 6 12
+s destroy
+3 67 43 65
+m StRucTure chart
+0
+s flag
+1 466
+s exclusive OR
+2 11 15
+s recursion
+4 78 53 124 203
+s synonym
+1 345
+s subtree
+3 56 99 32
+s rules
+4 55 66 77 22
+m tree
+2 73 29
+s ancestor
+3 44 289 654
+s height
+5 6 9 10 20 77
+s outdegree
+3 78 45 62
+s indegree
+1 68
+s root
+5 63 82 89 35 22
+s indegree
+2 54 32
+s branch
+3 73 44 35
+M parent
+2 65 34
+m pSuedoCODE
+3 44 88 44
+s algorithm header
+3 43 27 98
+s loop
+1 14
+s post condition
+2 89 78
+s return condition
+2 15 14
+s pre condition
+6 7 8 112 34 67 56
+s loop
+1 97
+s variables
+4 66 34 178 92
+M head
+3 76 34 98
+m METADATA
+2 16 23
+m logf
+5 87 34 97 23 45
+m LINE
+2 11 15
+m collision
+6 89 101 145 123 234 125
+m clustering
+3 65 34 82
+m clock
+1 100
+m underflow
+1 100
+s stack
+2 98 44

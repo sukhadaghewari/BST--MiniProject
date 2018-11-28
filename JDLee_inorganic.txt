@@ -1,0 +1,466 @@
+s bonding
+2 38 97
+m Bonding
+3 35 15 46
+S extent of d orbital partcipation
+2 67 63
+s transition metal complexes
+4 56 87 -99 22
+s crystal field theory
+2 97 65
+s molecular orbital theory
+3 67 45 82
+m effective atomic number rule
+1 399
+m oxides
+2 342 367
+s peroxide
+3 345 324 351
+s normal
+1 324
+s superoxide
+1 363
+s superoxide
+2 331 327
+b normal
+1 98
+m Maddrell's salt
+1 84
+m red lead
+2 65 -98
+m nitrogenase
+1 456
+m Chlorine
+3 78 67 123
+s oxoacids
+3 -10 98 22
+s dioxide
+1 147
+s ionic radius
+2 488 492
+r trifluoride
+2 45 56
+s polyhalides
+2 515 499
+s electron affinity
+3 98 76 104
+m azoTobacTer
+1 428
+m actinoids
+0
+s color
+2 456 478
+s oxidation states
+2 574 567
+s comparison with lanthanoids
+1 494
+s magnetic properties
+3 421 432 -98
+s electronic configuration
+2 786 761
+m organometallic compounds
+6 385 387 443 341 763
+m actinoids
+1 371
+m germanium
+0
+s boiling point
+1 392
+s as a semiconductor
+3 110 78 78
+s covalent radius
+2 100 200
+s ionization energy
+1 345
+s halides
+4 451 234 63 323
+s melting point
+1 387
+m haber-bosch process
+2 212 561
+s spin
+2 387 292
+s principal
+3 100 100 200
+s magnetic
+2 109 182
+s subsidary
+1 51
+s subsidary
+2 78 62
+s shape of periodic table
+1 15
+m preparation of anhydrous halides
+1 456
+m germanium
+2 123 231
+m GERMANIUM
+1 198
+m HYdrogen
+1 191
+s abundance
+2 156 132
+s Humphries series
+1 112
+s angular part of wave function
+2 98 98
+s isotopes
+3 45 67 23
+s Lyman series
+5 82 93 82 99 103
+s azide
+2 102 106
+s ortho and para
+3 62 67 64
+s pFUND series
+1 151
+s unique properties
+6 100 -9887 102 83 28 93
+M xenon
+2 482 561
+s difluoride
+5 456 476 501 737 383
+s xenate ion
+2 543 366
+s perxenate ion
+3 501 499 456
+s hexafluorides
+2 477 439
+m boron
+5 67 63 82 56 29
+s Friedel-craft's reaction
+2 87 92
+s isopoly acids
+3 19 82 45
+s dihalides
+2 109 -89
+s fluoboric acid
+1 109
+s borohydrides
+2 108 104
+s order of mo energy level
+2 89 99
+s dihaliDES
+2 100 123
+s pyrex GAS
+1 103
+s sodium peroxoborate
+2 115 108
+j carbonyl acids
+2 161 183
+s borax-bead test
+2 108 178
+m Rhizobium
+3 276 259 282
+m portland CEment
+2 106 104
+m nessler's reagent
+2 114 147
+m urea
+3 782 657 819
+m ultrapure methods
+2 764 781
+m zinc group
+0
+s brass
+2 207 209 
+s zinc blende
+3 203 211 223
+s calamine
+1 232
+s zeise's salt
+1 234
+s mercury cathode cell
+2 233 220
+m wrought ion
+2 671 684
+m quartz
+8 397 407 399 384 403 407 431 452
+m oxidation
+1 78
+s number
+1 49
+s states
+36 35
+m problems with
+1 439
+s phosphates
+1 456
+s fluoride ion in drinking water
+2 478 449
+s asbestos
+1 455
+s acid rain
+2 345 423
+s detergents
+1 440
+s photochemical smog
+2 457 589
+m bohr
+0
+s refinement to theory
+2 6 8
+s theory
+1 10
+s orbits
+3 6 11 9
+s sommerfield orbits
+1 15
+m d block
+2 567 578
+s covalent radii and lanthanide contraction
+1 545
+s noble characters
+1 568
+s variable oxidation states
+3 569 555 541
+s stability of various oxidation states
+2 599 582
+a density
+1 567
+s lattice energy
+1 588
+s complexes
+2 555 548
+m face centered cubic
+1 567
+m Heisenberg's uncertainity principle
+2 9 6
+m hyDROgen
+0
+s hydrogen selenide
+1 142
+s hydrogen iodide
+2 141 156
+s hydrogen sulphide
+1 148
+s hydroxylamine
+2 134 132
+s hydrogen cyanide
+0
+m isomerism
+1 187
+s geometric
+1 184
+s optical
+2 183 190
+s linkage
+1 180
+s meridonial
+1 153
+m interhalogen compounds
+1 513
+m Octet rule
+1 98
+s exceptions of octet rule
+2 99 102
+m nonstoichiometry in the d block
+1 552
+m polyvinyl chloride
+2 519 521
+m sommerfield's elleptical orbitals
+1 6
+m standard reduction potential table
+1 109
+m tetrahedral complexes
+0
+s factors favouring formation
+3 175 173 175
+s splitting energy levels
+1 173
+s electronic arrangement
+2 178 181
+m tridymite
+6 96 -102 89 27 67 92
+m valence bond theory
+1 18
+s table of shapes and number of orbitals
+1 52
+s hybridization
+4 52 53 56 68
+s sigma and pi bonds
+5 66 68 71 64 81
+s applied to complexes
+3 78 69 64
+m van der waal's forces
+9 96 114 117 97 300 107 390 524 500
+m walden inversion
+1 426
+B zeOlites
+0
+m zeolites
+6 456 406 415 414 413 525
+m sulphur
+1 481
+s synergic effect
+1 158
+s superconductors
+2 525 321
+s allotropy and structures
+2 466 464
+s contact process
+1 471
+s electronegativity values
+2 465 465
+s non aquatic solvent
+10 306 515 504 500 511 567 514 456 423 489
+s polysulphides
+1 108
+s sulphourous acid series
+3 475 472 478
+m spectra
+0
+s Hund's rule
+3 14 17 15
+s emission
+1 2
+s atomic absorption
+5 322 241 256 322 222
+m dry tests for basic radicals
+2 276 291
+s borax head test
+3 267 264 289
+s sodium carbonate bead test
+2 288 277
+s flame test
+2 231 249
+m Drude free electron theory of metals
+4 67 89 97 55
+m Grignard's compounds
+5 388 452 342 411 394
+m extraction of
+0
+s zinc
+3 224 226 225
+s silver
+2 234 235
+s tin
+3 250 252 254
+s aluminum
+5 215 220 216 218 221
+s copper
+3 222 212 218
+s lead
+2 256 262
+v gold
+0
+s gold
+2 212 211
+s iron
+3 232 230 233
+m Afbau build-up principle
+3 18 79 76
+m Bronsted-Lowry theory of acids
+1 308
+m de broglie dual nature of electrons
+2 18 8
+m crystal field theory
+0
+s stabilization of lattice energy
+3 168 170 167
+s square planar complexes
+1 171
+s assumptions made
+1 163
+s splitting on descending a group
+1 167
+M free energy(Ellingham diagram) diagrams
+6 206 205 207 206 211 212
+m fluorine
+0
+s occurence and abundance
+3 56 63 38
+s hydration energy
+2 98 28
+s reaction with water
+2 499 497
+m graphite
+12 40 0 36 38 189 273 193 194 172 273 421 246
+m carbon
+0
+s mixed chlorofluorocarbons
+2 198 222
+s dioxide
+2 89 21
+s coke
+13 253 836 236 273 283 927 623 362 363 372 783 635 555
+s diamond
+2 192 233
+s electronegativity values
+1 282
+s suboxides
+2 267 382
+m lithium
+1 162
+s alkyls and aryls
+2 334 228
+s differences from the rest of group
+2 76 282
+s stearate
+1 282
+s flame coloration
+2 292 321
+s diagonal relation
+4 562 728 266 342
+s carbonate
+1 222
+m lewis
+0
+s octet theory
+3 45 29 34
+s theory of acids and bases
+2 83 92
+m molecular orbital theory
+0 
+s afbau PRINCIPLE
+3 827 738 484
+s bond orders
+1 89
+m metals
+2 738 283
+s lustre
+1 119
+s cohesive force
+2 382 283
+s clusters
+1 382
+s malleability
+2 93 39
+s bond lengths
+2 83 299
+s alloys
+2 28 36
+m rochow direct process(alkylchlorosilanes)
+2 36 92
+M RADIUS
+2 111 282
+s metallic
+3 271 293 182
+s covalent
+2 92 381
+s ionic
+3 32 39 29
+m types of ores
+1 26
+s oxide ore
+2 19 28
+s sulphide ore
+2 39 123
+s halide ore
+3 48 24
+s carbonate ore
+2 39 32
+s sulphate ore
+3 47 29 30
+s nitrate ore
+2 39 49
+m molecular orbital theory
+2 68 69
+m interhalogen compounds
+1 519
+m rochow direct process(alkylchlorosilanes)
+2 89 101
+m zinc group
+2 99 100
+s properties
+1 98
